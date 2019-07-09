@@ -2,8 +2,8 @@
   "name": "nike-redesign",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Iankimble.github.io/nike-redesign-react-2",
   "dependencies": {
-    "homepage": "http://Iankimble.github.io/nike-redesign-react-2",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
