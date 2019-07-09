@@ -13,31 +13,31 @@ const LeBron = () => (
 
         {/* Player specific Items*/}
         <ItemCard
-            Img={require("../Images/O.jpg")}
+            Img={require("../Images/lebron10.jpg")}
             ItemName="LeBron X"
             ItemPrice="$200"
         />
 
         <ItemCard
-            Img={require("../Images/O.jpg")}
+            Img={require("../Images/lebron11.jpg")}
             ItemName="LeBron XI"
             ItemPrice="$250"
         />
 
         <ItemCard
-            Img={require("../Images/O.jpg")}
+            Img={require("../Images/lebron13.jpg")}
             ItemName="LeBron XIII"
             ItemPrice="$220"
         />
 
         <ItemCard
-            Img={require("../Images/O.jpg")}
+            Img={require("../Images/lebronT1.jpeg")}
             ItemName="LeBron Graphic T"
             ItemPrice="$50"
         />
 
         <ItemCard
-            Img={require("../Images/O.jpg")}
+            Img={require("../Images/lebronT2.jpg")}
             ItemName="LeBron Graphic T"
             ItemPrice="$50"
         />

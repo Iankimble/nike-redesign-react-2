@@ -10,22 +10,22 @@ const Home= ()=>(
     
     <SwooshCard 
     Route = "/LeBron"
-    SwooshArt = {require("../Images/swoosh.jpg")}
+    SwooshArt = {require("../Images/lebronSwoosh1.jpg")}
     />
 
         <SwooshCard 
     Route = "/KD"
-    SwooshArt = {require("../Images/swoosh.jpg")}
+    SwooshArt = {require("../Images/kdSwoosh1.jpg")}
     />
 
         <SwooshCard 
     Route = "/Jordan"
-    SwooshArt = {require("../Images/swoosh.jpg")}
+    SwooshArt = {require("../Images/jordanSwoosh1.jpg")} 
     />
 
         <SwooshCard 
     Route = "/Kobe"
-    SwooshArt = {require("../Images/swoosh.jpg")}
+    SwooshArt = {require("../Images/kobeSwoosh1.jpg")}
     />
 
 </div>

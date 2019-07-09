@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const SwooshCard = prop => (
 
-    <div style={{backgroundColor:"none",display:"inline-block",margin:"10px", height:"325px"}}> 
+    <div style={{backgroundColor:"none",display:"inline-block",margin:"10px", height:"325px",outlineStyle:"none",outlineColor:"white",border:"0"}}> 
         <Link to={prop.Route}>
             <img src={prop.SwooshArt} style={{height:"300px",width:"300px"}}/>
         </Link>
