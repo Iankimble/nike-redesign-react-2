@@ -29,7 +29,7 @@ const NavBar = () => (
                     <li style={{listStyle:"none",color:"black", display:"inline-block", margin:"10px", justifyContent:"space-around" }}>Kobe</li>
                 </Link>
 
-            <img src={require("./Images/cart.jpg")} style={{height:"40px",width:"40px",float:"right",justifyContent:"space-around", paddingLeft:"20px"}}/>
+            <img src={require("./Images/cart1.jpg")} style={{height:"40px",width:"40px",float:"right",justifyContent:"space-around", paddingLeft:"100px"}}/>
 
             </ul>
         </nav>
